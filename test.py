@@ -1,7 +1,7 @@
 import requests
 
 
-KEY = "a8df30dbf720489e92d293b374f2e996"
+KEY = "a8df30dbf720489e92d293b374f2exxx"
 
 HOST = "jk3aat3894.re.qweatherapi.com"
 
